@@ -13,6 +13,7 @@ Antworten finden Sie diesem Repo! Es hebt sich von allgemeiner Führungs- und Ma
 
 ## *Github - Repo's die jeder Tech-Leader kennen muss
 - [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome#platforms)
+- https://github.com/bayandin/awesome-awesomeness
 - https://github.com/donnemartin/system-design-primer
 - [https://github.com/deincto/awesome-bootstrap](https://github.com/binhnguyennus/awesome-scalability)
 - [https://github.com/deincto/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
