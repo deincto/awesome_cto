@@ -14,6 +14,7 @@ Antworten finden Sie diesem Repo! Es hebt sich von allgemeiner Führungs- und Ma
 ## Software Entwickler -> Manager 
 Der erste Schritt ist bekanntlich der Schwerste: Wie Qualifiziere ich mich vom Entwickler zum Manager.
 
+- How to be a Manager – A step-by-step guide to leading a team - A full, detailed guide on modern management practices.![grafik](https://github.com/deincto/deincto/assets/97528720/c2224e3e-c8e8-482e-944f-63a6397f5ece)
 
 
 
@@ -28,7 +29,11 @@ Der erste Schritt ist bekanntlich der Schwerste: Wie Qualifiziere ich mich vom E
 
 ## Random Links / Webseiten
 - https://standardresume.co/tech
-- 
+- https://www.trueup.io/
+- https://www.venturekit.ai/
+- https://zapier.com/
+- https://angelmatch.io/
+- https://builtwith.com/
 
 
 <!--
