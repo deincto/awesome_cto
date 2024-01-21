@@ -11,6 +11,12 @@ Eine komplette Collection von Ratschlägen, Anekdoten, Wissensthemen, Diskussion
 
 Antworten finden Sie diesem Repo! Es hebt sich von allgemeiner Führungs- und Managementliteratur ab, indem es kompromisslose Einblicke und praktische Ratschläge bietet, um deinen Weg in **die Management-Riege (Team-Lead, Head-Of, Director, VP oder CTO)** zu erleichtern.
 
+## Software Entwickler -> Manager 
+Der erste Schritt ist bekanntlich der Schwerste: Wie Qualifiziere ich mich vom Entwickler zum Manager.
+
+
+
+
 ## *Github - Repo's die jeder Tech-Leader kennen muss
 - [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome#platforms)
 - https://github.com/bayandin/awesome-awesomeness
