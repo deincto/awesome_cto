@@ -25,7 +25,10 @@ Der erste Schritt ist bekanntlich der Schwerste: Wie Qualifiziere ich mich vom E
 - [https://github.com/deincto/awesome-bootstrap](https://github.com/binhnguyennus/awesome-scalability)
 - [https://github.com/deincto/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - https://github.com/codecrafters-io/build-your-own-x
-
+- https://github.com/trimstray/the-book-of-secret-knowledge
+- https://dev.to/ishratumar/15-must-have-cheatsheets-for-developers-1n92
+- https://github.com/charlax/engineering-management
+- https://github.com/f/awesome-chatgpt-prompts
 
 ## Random Links / Webseiten
 - https://standardresume.co/tech
