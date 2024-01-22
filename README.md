@@ -29,6 +29,13 @@ Der erste Schritt ist bekanntlich der Schwerste: Wie Qualifiziere ich mich vom E
 - https://dev.to/ishratumar/15-must-have-cheatsheets-for-developers-1n92
 - https://github.com/charlax/engineering-management
 - https://github.com/f/awesome-chatgpt-prompts
+- https://github.com/LappleApple/awesome-leading-and-managing
+- https://github.com/jwasham/coding-interview-university
+- https://github.com/92bondstreet/cto
+- https://github.com/kamranahmedse/design-patterns-for-humans
+- https://github.com/DopplerHQ/awesome-interview-questions
+- https://github.com/LeCoupa/awesome-cheatsheets
+- https://github.com/bradtraversy/design-resources-for-developers?ref=hackernoon.com
 
 ## Random Links / Webseiten
 - https://standardresume.co/tech
