@@ -60,6 +60,10 @@ Der erste Schritt ist bekanntlich der Schwerste: Wie Qualifiziere ich mich vom E
 
 ## Interessante Artikel
 - https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.u1iu04owe
+- 
+
+## Hiring
+- https://medium.com/eshares-blog/how-to-hire-34f4ded5f176#.jxkz3wrs3
 
 <!--
 **deincto/deincto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
