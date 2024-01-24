@@ -38,6 +38,7 @@ Der erste Schritt ist bekanntlich der Schwerste: Wie Qualifiziere ich mich vom E
 - https://github.com/bradtraversy/design-resources-for-developers?ref=hackernoon.com
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/charlax/engineering-management#finops-cost
+- https://github.com/DopplerHQ/awesome-interview-questions
 
 ## Random Links / Webseiten
 - https://standardresume.co/tech
