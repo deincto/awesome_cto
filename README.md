@@ -58,6 +58,8 @@ Der erste Schritt ist bekanntlich der Schwerste: Wie Qualifiziere ich mich vom E
 - https://www.youtube.com/watch?v=8nXqcugV2Y4
 - https://lifeat.io/app?space=694
 
+## Interessante Artikel
+- https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.u1iu04owe
 
 <!--
 **deincto/deincto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
