@@ -54,6 +54,7 @@ Der erste Schritt ist bekanntlich der Schwerste: Wie Qualifiziere ich mich vom E
 - https://share.tapeapp.com/410/workspaces/startup-foerderungen-1/apps/foerdermittel-antraege?auth=wksfc5f1620186d5fbd9f9ac09514eb5cf3
 - https://share.tapeapp.com/409/workspaces/passive-lead-channels/apps/passive-lead-platform-checklist?auth=wks7117b64bc74487c5ccbbc31009265543
 - https://www.youtube.com/watch?v=8nXqcugV2Y4
+- https://lifeat.io/app?space=694
 
 
 <!--
